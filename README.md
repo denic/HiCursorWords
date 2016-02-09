@@ -11,6 +11,7 @@ You can control highlighting by highlighting group names.
 
 this is forked from [#4306](http://www.vim.org/scripts/script.php?script_id=4306 "http://www.vim.org/scripts/script.php?script_id=4306") by [Shuhei Kubota](http://www.vim.org/account/profile.php?user_id=7032 "Shuhei Kubota") and made a little change by 
 [荒野无灯](http://ihacklog.com "荒野无灯@iHacklog")
+and then changed again my me (reid horuff)
 
 HiCursorWords : Highlights words under the cursor. 
 

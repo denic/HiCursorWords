@@ -102,6 +102,7 @@ function! s:HiCursorWords__execute()
                 return
         endif
         let w:HiCursorWords__matchId = matchadd('WordUnderTheCursor', word, 0)
+        highlight WordUnderTheCursor cterm=underline ctermbg=NONE ctermfg=yellow
     endif
 endfunction
 
